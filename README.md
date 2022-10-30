@@ -1,6 +1,6 @@
 # Salary_hero
 # เริ่มต้นใช้งาน
-    * npm install
+    $ npm install
 # ข้อกำหนดเบื้องต้น
 * **Programming Language** : Node v10.19.0
 * **Database** : PostgresSQL
