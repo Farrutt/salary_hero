@@ -1,4 +1,4 @@
-# salary_hero
+# Salary_hero
 # เริ่มต้นใช้งาน
 npm install
 # ข้อกำหนดเบื้องต้น
