@@ -72,4 +72,4 @@ CREATE TABLE public.transfer_log (
 
 ``` 
 # API Document
-Api collection: https://drive.google.com/file/d/1WXyZBc1oaJLRUEhmhTVH3JEvS2N2v49l/view?usp=sharing
+Api collection: https://drive.google.com/drive/folders/10E_fnhfLw__sQI15_Zm745n8nA4-7A24?usp=sharing
